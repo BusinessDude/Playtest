@@ -59,8 +59,6 @@
   <summary markdown="span">
     Playground
   </summary>
-* [BallAdventure: Brian Blair]() --- Made the enviroment a challange for the ball to make it across the green feilds and much more.  
-</details>
 
 <details>
   <summary markdown="span">
